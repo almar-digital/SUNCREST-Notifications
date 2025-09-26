@@ -2,6 +2,11 @@
   {
     "id": "notif-001",
     "message": "👋 Welcome to the SUNCREST Virtual Event Platform.",
-    "timestamp": "2024-09-26T11:30:00Z"
+    "timestamp": "2025-09-26T11:30:30Z"
   },
+  {
+    "id": "notif-002",
+    "message": "⚙️ Please contact digital@swm-partners.com if you require technical support",
+    "timestamp": "2025-09-26T11:31:30Z"
+  }
 ]
